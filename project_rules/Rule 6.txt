@@ -1,0 +1,2 @@
+RULE 6 — Complexity needs a receipt
+Before adding a new library, pattern, or abstraction, write one sentence justifying the value it unlocks. No justification, no addition.

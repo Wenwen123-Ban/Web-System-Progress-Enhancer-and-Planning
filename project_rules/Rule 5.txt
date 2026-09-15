@@ -1,0 +1,2 @@
+RULE 5 — Simplicity wins ties
+When two approaches solve the problem equally well, pick the one a stranger could understand in five minutes.

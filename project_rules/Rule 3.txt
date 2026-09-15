@@ -1,0 +1,2 @@
+RULE 3 — Every task ends with a trace
+When a task is done, leave something behind: a doc update, a commit message that explains "why," or a note in docs/objectives. No silent completions.

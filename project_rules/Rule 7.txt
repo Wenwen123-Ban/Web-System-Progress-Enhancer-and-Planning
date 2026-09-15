@@ -1,0 +1,2 @@
+RULE 7 — Check against the Charter before merging
+Before closing out a feature, re-read PROJECT_CHARTER.md and OBJECTIVE_v1.0.md. If the feature drifts from either, stop and re-scope — don't ship the drift.

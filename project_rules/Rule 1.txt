@@ -1,0 +1,2 @@
+RULE 1 — No feature without a problem
+Before building anything, name the real problem it solves. If you can't point to it, it doesn't ship in Phase 1.

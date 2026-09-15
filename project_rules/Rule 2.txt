@@ -1,0 +1,3 @@
+RULE 2 — Stay inside the v1.0 scope line
+Only build: create project, organize project, track progress, persist data, basic error handling/logging.
+If it's not on that list (notifications, multi-user, dashboards, integrations), it waits for a later version.

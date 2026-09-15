@@ -1,0 +1,2 @@
+RULE 4 — Bugs and failures get written down
+Nothing gets quietly fixed and forgotten. Log it in docs/debugging first, then fix it.
